@@ -1,0 +1,35 @@
+running egg_info
+creating ../build/py_pub/py_pub.egg-info
+writing ../build/py_pub/py_pub.egg-info/PKG-INFO
+writing dependency_links to ../build/py_pub/py_pub.egg-info/dependency_links.txt
+writing entry points to ../build/py_pub/py_pub.egg-info/entry_points.txt
+writing requirements to ../build/py_pub/py_pub.egg-info/requires.txt
+writing top-level names to ../build/py_pub/py_pub.egg-info/top_level.txt
+writing manifest file '../build/py_pub/py_pub.egg-info/SOURCES.txt'
+reading manifest file '../build/py_pub/py_pub.egg-info/SOURCES.txt'
+writing manifest file '../build/py_pub/py_pub.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ubuntu/ros2_ws/src/build/py_pub/build
+creating /home/ubuntu/ros2_ws/src/build/py_pub/build/lib
+creating /home/ubuntu/ros2_ws/src/build/py_pub/build/lib/py_pub
+copying py_pub/pub_file.py -> /home/ubuntu/ros2_ws/src/build/py_pub/build/lib/py_pub
+copying py_pub/__init__.py -> /home/ubuntu/ros2_ws/src/build/py_pub/build/lib/py_pub
+running install
+running install_lib
+creating /home/ubuntu/ros2_ws/src/install/py_pub/lib/python3.8/site-packages/py_pub
+copying /home/ubuntu/ros2_ws/src/build/py_pub/build/lib/py_pub/pub_file.py -> /home/ubuntu/ros2_ws/src/install/py_pub/lib/python3.8/site-packages/py_pub
+copying /home/ubuntu/ros2_ws/src/build/py_pub/build/lib/py_pub/__init__.py -> /home/ubuntu/ros2_ws/src/install/py_pub/lib/python3.8/site-packages/py_pub
+byte-compiling /home/ubuntu/ros2_ws/src/install/py_pub/lib/python3.8/site-packages/py_pub/pub_file.py to pub_file.cpython-38.pyc
+byte-compiling /home/ubuntu/ros2_ws/src/install/py_pub/lib/python3.8/site-packages/py_pub/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/ubuntu/ros2_ws/src/install/py_pub/share/ament_index
+creating /home/ubuntu/ros2_ws/src/install/py_pub/share/ament_index/resource_index
+creating /home/ubuntu/ros2_ws/src/install/py_pub/share/ament_index/resource_index/packages
+copying resource/py_pub -> /home/ubuntu/ros2_ws/src/install/py_pub/share/ament_index/resource_index/packages
+copying package.xml -> /home/ubuntu/ros2_ws/src/install/py_pub/share/py_pub
+running install_egg_info
+Copying ../build/py_pub/py_pub.egg-info to /home/ubuntu/ros2_ws/src/install/py_pub/lib/python3.8/site-packages/py_pub-0.0.0-py3.8.egg-info
+running install_scripts
+Installing publisher script to /home/ubuntu/ros2_ws/src/install/py_pub/lib/py_pub
+writing list of installed files to '/home/ubuntu/ros2_ws/src/build/py_pub/install.log'

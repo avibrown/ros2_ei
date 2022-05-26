@@ -1,0 +1,17 @@
+[4.653s] Invoking command in '/home/ubuntu/ros2_ws/build/py_pub': PYTHONPATH=/home/ubuntu/ros2_ws/install/py_pub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/ubuntu/ros2_ws/install/py_pub --editable --build-directory /home/ubuntu/ros2_ws/build/py_pub/build --no-deps install_data --install-dir /home/ubuntu/ros2_ws/install/py_pub
+[5.609s] running develop
+[5.999s] running egg_info
+[6.000s] writing py_pub.egg-info/PKG-INFO
+[6.000s] writing dependency_links to py_pub.egg-info/dependency_links.txt
+[6.001s] writing entry points to py_pub.egg-info/entry_points.txt
+[6.002s] writing requirements to py_pub.egg-info/requires.txt
+[6.002s] writing top-level names to py_pub.egg-info/top_level.txt
+[6.123s] reading manifest file 'py_pub.egg-info/SOURCES.txt'
+[6.126s] writing manifest file 'py_pub.egg-info/SOURCES.txt'
+[6.130s] running build_ext
+[6.131s] Creating /home/ubuntu/ros2_ws/install/py_pub/lib/python3.8/site-packages/py-pub.egg-link (link to .)
+[6.135s] Installing publisher script to /home/ubuntu/ros2_ws/install/py_pub/lib/py_pub
+[6.136s] 
+[6.136s] Installed /home/ubuntu/ros2_ws/build/py_pub
+[6.137s] running install_data
+[6.236s] Invoked command in '/home/ubuntu/ros2_ws/build/py_pub' returned '0': PYTHONPATH=/home/ubuntu/ros2_ws/install/py_pub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/ubuntu/ros2_ws/install/py_pub --editable --build-directory /home/ubuntu/ros2_ws/build/py_pub/build --no-deps install_data --install-dir /home/ubuntu/ros2_ws/install/py_pub

@@ -1,0 +1,3 @@
+[console_scripts]
+publisher = py_pub.pub_file:main
+

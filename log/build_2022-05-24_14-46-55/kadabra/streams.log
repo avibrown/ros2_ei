@@ -1,0 +1,17 @@
+[2.873s] Invoking command in '/home/ubuntu/ros2_ws/build/kadabra': PYTHONPATH=/home/ubuntu/ros2_ws/install/kadabra/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/ubuntu/ros2_ws/install/kadabra --editable --build-directory /home/ubuntu/ros2_ws/build/kadabra/build --no-deps install_data --install-dir /home/ubuntu/ros2_ws/install/kadabra
+[3.660s] running develop
+[4.050s] running egg_info
+[4.050s] writing kadabra.egg-info/PKG-INFO
+[4.051s] writing dependency_links to kadabra.egg-info/dependency_links.txt
+[4.052s] writing entry points to kadabra.egg-info/entry_points.txt
+[4.053s] writing requirements to kadabra.egg-info/requires.txt
+[4.053s] writing top-level names to kadabra.egg-info/top_level.txt
+[4.175s] reading manifest file 'kadabra.egg-info/SOURCES.txt'
+[4.178s] writing manifest file 'kadabra.egg-info/SOURCES.txt'
+[4.183s] running build_ext
+[4.184s] Creating /home/ubuntu/ros2_ws/install/kadabra/lib/python3.8/site-packages/kadabra.egg-link (link to .)
+[4.187s] Installing open_trigger script to /home/ubuntu/ros2_ws/install/kadabra/lib/kadabra
+[4.188s] 
+[4.189s] Installed /home/ubuntu/ros2_ws/build/kadabra
+[4.189s] running install_data
+[4.289s] Invoked command in '/home/ubuntu/ros2_ws/build/kadabra' returned '0': PYTHONPATH=/home/ubuntu/ros2_ws/install/kadabra/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/ubuntu/ros2_ws/install/kadabra --editable --build-directory /home/ubuntu/ros2_ws/build/kadabra/build --no-deps install_data --install-dir /home/ubuntu/ros2_ws/install/kadabra

@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing kadabra.egg-info/PKG-INFO
+writing dependency_links to kadabra.egg-info/dependency_links.txt
+writing entry points to kadabra.egg-info/entry_points.txt
+writing requirements to kadabra.egg-info/requires.txt
+writing top-level names to kadabra.egg-info/top_level.txt
+reading manifest file 'kadabra.egg-info/SOURCES.txt'
+writing manifest file 'kadabra.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ubuntu/ros2_ws/install/kadabra/lib/python3.8/site-packages/kadabra.egg-link (link to .)
+Installing open_trigger script to /home/ubuntu/ros2_ws/install/kadabra/lib/kadabra
+Installing toggle_LED script to /home/ubuntu/ros2_ws/install/kadabra/lib/kadabra
+
+Installed /home/ubuntu/ros2_ws/build/kadabra
+running install_data

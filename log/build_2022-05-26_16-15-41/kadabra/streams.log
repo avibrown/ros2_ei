@@ -1,0 +1,19 @@
+[2.882s] Invoking command in '/home/ubuntu/ros2_ws/build/kadabra': PYTHONPATH=/home/ubuntu/ros2_ws/install/kadabra/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/ubuntu/ros2_ws/install/kadabra --editable --build-directory /home/ubuntu/ros2_ws/build/kadabra/build --no-deps install_data --install-dir /home/ubuntu/ros2_ws/install/kadabra
+[4.106s] running develop
+[4.813s] running egg_info
+[4.814s] writing kadabra.egg-info/PKG-INFO
+[4.815s] writing dependency_links to kadabra.egg-info/dependency_links.txt
+[4.816s] writing entry points to kadabra.egg-info/entry_points.txt
+[4.817s] writing requirements to kadabra.egg-info/requires.txt
+[4.818s] writing top-level names to kadabra.egg-info/top_level.txt
+[4.954s] reading manifest file 'kadabra.egg-info/SOURCES.txt'
+[4.958s] writing manifest file 'kadabra.egg-info/SOURCES.txt'
+[4.964s] running build_ext
+[4.965s] Creating /home/ubuntu/ros2_ws/install/kadabra/lib/python3.8/site-packages/kadabra.egg-link (link to .)
+[4.970s] Installing classify script to /home/ubuntu/ros2_ws/install/kadabra/lib/kadabra
+[4.971s] Installing open_trigger script to /home/ubuntu/ros2_ws/install/kadabra/lib/kadabra
+[4.972s] Installing toggle_LED script to /home/ubuntu/ros2_ws/install/kadabra/lib/kadabra
+[4.973s] 
+[4.974s] Installed /home/ubuntu/ros2_ws/build/kadabra
+[4.975s] running install_data
+[5.088s] Invoked command in '/home/ubuntu/ros2_ws/build/kadabra' returned '0': PYTHONPATH=/home/ubuntu/ros2_ws/install/kadabra/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/ubuntu/ros2_ws/install/kadabra --editable --build-directory /home/ubuntu/ros2_ws/build/kadabra/build --no-deps install_data --install-dir /home/ubuntu/ros2_ws/install/kadabra
