@@ -1,3 +1,0 @@
-[console_scripts]
-py_t = py_testing.test_node:main
-
