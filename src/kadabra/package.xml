@@ -8,7 +8,6 @@
   <license>TODO: License declaration</license>
 
   <depend>rclpy</depend>
-  <depend>RPi</depend>
   <depend>std_msgs</depend>
   <depend>edge_impulse_linux</depend>
   <depend>adafruit_mpu6050</depend>

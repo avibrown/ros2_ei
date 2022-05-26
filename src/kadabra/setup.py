@@ -20,9 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            "open_trigger = kadabra.trigger:main",
-            "toggle_LED = kadabra.LED:main",
-            "classify = kadabra.classifier_node:main",
+            "classifier = kadabra.classifier_node:main",
             "mpu6050 = kadabra.mpu6050_node:main"
         ],
     },
