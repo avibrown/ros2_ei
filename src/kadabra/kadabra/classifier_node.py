@@ -61,7 +61,6 @@ class Classifier:
             if (self.runner):
                 self.runner.stop()
 
-
 def main(args=None):
     rclpy.init(args=args)
     node = ClassificationNode()
