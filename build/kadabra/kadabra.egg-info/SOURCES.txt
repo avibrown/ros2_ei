@@ -8,11 +8,9 @@ setup.py
 ../../build/kadabra/kadabra.egg-info/requires.txt
 ../../build/kadabra/kadabra.egg-info/top_level.txt
 ../../build/kadabra/kadabra.egg-info/zip-safe
-kadabra/LED.py
 kadabra/__init__.py
 kadabra/classifier_node.py
 kadabra/mpu6050_node.py
-kadabra/trigger.py
 kadabra.egg-info/PKG-INFO
 kadabra.egg-info/SOURCES.txt
 kadabra.egg-info/dependency_links.txt
