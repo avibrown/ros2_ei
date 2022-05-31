@@ -17,10 +17,10 @@ class ClassificationNode(Node):
         self.timer_ = self.create_timer(0.1, self.classify) # 2: Adjust timing
 
         # Create Classifier object based on Edge Impulse model file
-        self.classifier = Classifier('modelfile.eim')
+        self.classifier = Classifier('modelfile.eim') # 3: Check file name
         
         self.buffer = []
-        self.buffer_full_len = 588 #3: Set max length of buffer array
+        self.buffer_full_len = None #4: Set max length of buffer array
 
         self.get_logger().info("Edge Impulse node opened.")
 
