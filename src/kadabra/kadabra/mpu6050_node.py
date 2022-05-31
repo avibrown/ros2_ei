@@ -10,7 +10,8 @@ class MP6050Node(Node):
         self.i2c = board.I2C()
         self.mpu = adafruit_mpu6050.MPU6050(self.i2c)
         self.publisher_ = self.create_publisher(Float32MultiArray, "mpu6050_stream", 15)
-        self.timer_ = self.create_timer((1/98), self.read_mpu6050)
+        self.frequency = 98
+        self.timer_ = self.create_timer((1/self.frequency), self.read_mpu6050)
         self.get_logger().info("MP6050 stream opened.")
 
     def read_mpu6050(self):
