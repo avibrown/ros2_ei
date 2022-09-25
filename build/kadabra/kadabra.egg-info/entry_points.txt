@@ -1,4 +1,0 @@
-[console_scripts]
-classifier = kadabra.classifier_node:main
-mpu6050 = kadabra.mpu6050_node:main
-
